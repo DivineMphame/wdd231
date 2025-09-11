@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A course homepage">
+    <meta name="author" content="Tadiwanashe Divine Adelaide Mphame">
+
+    <!--  Essential META Tags -->
+    <meta property="og:title" content="Tadiwanashe Divine Mphame's WDD 231 Course Homepage">
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://lp-cms-production.imgix.net/2022-01/GettyImages-1237639166.jpg?w=1440&h=810&fit=crop&auto=format&q=75">
+    <meta property="og:url" content="https://divinemphame.github.io/wdd231/">
+    <meta name="twitter:card" content="summary_large_image">
+
+    <title>Course Homepage - Tadiwanashe Divine Adelaide Mphame</title>
+    <link rel="stylesheet" href="styles/homepage.css">
+    <script src="scripts/homepage.js" type="module"></script>
+    <!-- Font awesome -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer"> -->
+     
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Protest+Guerrilla&family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="images/profile-picture-serious.jpg" alt="Profile picture of Tadiwanashe Divine Adelaide Mphame">
+        <h1>Tadiwanashe Divine Adelaide Mphame</h1>
+        <button class="hamburger-btn">&#9776;</button>
+        <button hidden class="modal-close">X</button>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#" class="active" id="active">Home</a></li>
+            <li><a href="chamber/index.html" target="_blank">Chamber</a></li>
+            <li><a href="project/index.html" target="_blank">Project</a></li>
+            <li><a href="https://github.com/chrisedeson" target="_blank">Github Profile</a></li>
+            <li><a href="https://www.linkedin.com/in/christopher-edeson" target="_blank">LinkedIn</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section class="course-work-panel">
+            <h2>Course Work</h2>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </section>
+        <section class="location-panel">
+            <h2>Pretoria, South Africa</h2>
+            <img src="images/national-theatre.jpg" alt="Exterior view of the National Theatre in Lagos, featuring its iconic helmet-shaped design against a clear blue sky.">
+            <p>National Theatre</p>
+        </section>
+        <section class="course-certificate-panel">
+            <h2>Web and Computer Programming Certificate</h2>
+            <div class="courses-navigation">
+                <button id="all" data-subject="ALL">All</button>
+                <button id="cse" data-subject="CSE">CSE</button>
+                <button id="wdd" data-subject="WDD">WDD</button>
+            </div>
+            <p class="credits-required"></p>
+            <div class="courses">
+            </div>
+        </section>
+        <dialog id="course-details"></dialog>
+    </main>
+    <footer>
+        <p>&copy;<span id="currentYear"></span></p>
+        <p>✈️ Tadiwanashe Divine Adelaide Mphame ✈️</p>
+        <div class="country">
+            <p class="test">South Africa</p>
+            <img src="images/nigeria-flag-icon.svg" alt="South African flag icon">
+        </div>
+        <p id="lastModified"></p>
+    </footer>
+
+</body>
+
+</html>
