@@ -19,7 +19,8 @@ header, .hamburger-btn, .modal-close {
 header {
     position: relative;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
     font-family: "Protest Guerrilla", system-ui;
     font-size: .80rem;
     padding-bottom: 15px;
