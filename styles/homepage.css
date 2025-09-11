@@ -22,7 +22,7 @@ header {
     justify-content: space-around;
     align-items: center;
     font-family: "Protest Guerrilla", system-ui;
-    font-size: .80rem;
+    font-size: .100rem;
     padding-bottom: 15px;
     background-color: var(--primary-color);
 }
