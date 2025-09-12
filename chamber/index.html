@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Christopher Edeson">
+    <meta name="description" content="Homepage - Oshodi Chamber of Commerce">
+    <title>Oshodi Chamber of Commerce</title>
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/homepage.css">
+    <link rel="stylesheet" href="styles/footer.css">
+    <script src="scripts/header.js" defer></script>
+    <script src="scripts/homepage.js" type="module"></script>
+    <script src="scripts/footer.js" defer></script>
+
+    <!-- Favicon -->
+    <link rel="icon" href="images/favicon-16x16.png" type="image/png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+
+    <!-- Socail Media tags -->
+    <meta property="og:title" content="Homepage - Oshodi Chamber of Commerce">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://chrisedeson.github.io/wdd231/chamber/index.html">
+    <meta property="og:image" content="https://chrisedeson.github.io/wdd231/chamber/images/lagos.jpg">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pirata+One&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <!-- Font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+</head>
+<body>
+    <header>
+        <img src="images/logo.png" width="34" height="40" alt="Website Logo">
+        <div class="title">
+            <h1>Oshodi</h1>
+            <p>Chamber of Commerce</p>    
+        </div> 
+        <div class="nav-buttons">
+            <button id="themes">&#9775;</button>
+            <button id="hamburgerButton"></button>
+        </div>
+    </header>
+    <nav id="nav-links-animation">              
+        <ul class="menu-links">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="directory.html">Directory</a></li>
+            <li><a href="join.html">Join</a></li>
+            <li><a href="discover.html">Discover</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section class="hero">
+            <video autoplay muted loop playsinline>
+                <source src="images/hero-video.mp4" type="video/mp4">
+                <source src="images/hero.jpg" type="image/jpeg">
+                Your browser does not support the video tag
+            </video>
+            <!-- Fallback Image for Non-Supporting Browsers -->
+             <!-- <img src="images/hero.jpg" alt="Background Image" class="fallback=image"> -->
+
+            <div class="call-action animate">
+                <h3>. . . the leading voice of the organized private sector</h3>
+                <div class="call-action-btns">
+                    <button>Keynote Tickets</button>
+                    <button class="about-us-btn">What We Do</button>
+                </div>
+            </div>
+        </section>
+        <h2 class="heading-home">Home</h2>
+        <section class="middle-section">
+            <div class="events-section">
+                <h3>Events</h3>
+            </div>
+            <div class="weather-section">
+                <div class="current-weather-panel">
+                    <h3>Current Weather</h3>
+                    <div class="current-weather-details">
+
+                    </div>
+                </div>
+                <div class="weather-forecast-panel">
+                    <h3>Weather Forecast</h3>
+                    <div class="weather-forecast-details">
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="business-section">
+            <h3 hidden>Invisible Header</h3> <!-- put here because of errors, i'm lazy yes😒-->
+
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="website-address">
+            <p class="footer-heading-text"><strong>Oshodi Chamber of Commerce</strong></p>
+            <p>10 Rue De La Paix</p>
+            <p>Oshodi, Mali 999</p>
+            <p>info@Oshodicc.org</p> 
+            <p>(223) 555-2300</p>
+        </div>
+        <div class="social-media-icons">
+            <a href="https://www.youtube.com/" target="_blank" class="icon-button" aria-label="Visit YouTube">
+                <i class="fa-brands fa-youtube"></i>
+            </a>
+            <a href="https://www.twitter.com/" target="_blank" class="icon-button" aria-label="Visit Twitter">
+                <i class="fa-brands fa-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/christopher-edeson/" target="_blank" class="icon-button" aria-label="Visit Linkedin">
+                <i class="fa-brands fa-linkedin-in"></i>
+            </a>
+            <a href="https://www.facebook.com/christopher.edeson" target="_blank" class="icon-button" aria-label="Visit Facebook">
+                <i class="fa-brands fa-facebook-f"></i>
+            </a>
+        </div>        
+        <div class="copyright-info">
+            <p>WDD231 Class Project</p>
+            <p>Christopher Edeson</p>
+            <p>&copy; <span id="currentYear"></span> Oshodi Chamber of Commerce</p>
+            <p id="lastModified"></p>
+        </div>
+    </footer>
+
+</body>
+</html>
