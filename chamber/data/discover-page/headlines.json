@@ -2,10 +2,10 @@
       {
         "image": {
           "src": "https://images.unsplash.com/photo-1651340981821-b519ad14da7c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-          "alt": "Nigerian Stock Market"
+          "alt": "South African Stock Market"
         },
         "subject": "LAWSUIT",
-        "title": "Nigerian Stock Market Rises",
+        "title": "South African Stock Market Rises",
         "author": "Mende Fisher"
       },
       {
@@ -15,7 +15,7 @@
         },
         "subject": "HEALTH",
         "title": "Protecting the Vital Role of Medicines",
-        "author": "Dr. Kwame Irene"
+        "author": "Russell Rensburg"
       },
       {
         "image": {
@@ -24,7 +24,7 @@
         },
         "subject": "GOVERNMENT",
         "title": "Is Politics a Good Game?",
-        "author": "Devon Charles"
+        "author": "Julias Malema"
       },
       {
         "image": {
@@ -33,7 +33,7 @@
         },
         "subject": "TECHNOLOGY",
         "title": "The Future of AI in Africa",
-        "author": "Amaka Duru"
+        "author": "Natalie Martin"
       },
       {
         "image": {
@@ -41,8 +41,8 @@
           "alt": "Climate Change"
         },
         "subject": "ENVIRONMENT",
-        "title": "Tackling Climate Change in Nigeria",
-        "author": "Aisha Bello"
+        "title": "Tackling Climate Change in South Africa",
+        "author": "Nadia Shah Naidoo"
       },
       {
         "image": {
@@ -51,7 +51,7 @@
         },
         "subject": "ECONOMY",
         "title": "The African Free Trade Zone Explained",
-        "author": "Chukwuma Nwoko"
+        "author": "Happy Kambule"
       },
       {
         "image": {
@@ -60,7 +60,7 @@
         },
         "subject": "HEALTH",
         "title": "Access to Healthcare in Rural Areas",
-        "author": "Dr. Grace Emenike"
+        "author": "Dr. Hombakazi M Nqandeka"
       },
       {
         "image": {
@@ -68,8 +68,8 @@
           "alt": "Cybersecurity Trends"
         },
         "subject": "TECHNOLOGY",
-        "title": "Cybersecurity in 2024: What to Expect",
-        "author": "Samuel Okoye"
+        "title": "Cybersecurity in 2025: What to Expect",
+        "author": "Phuti Dabengwa"
       },
       {
         "image": {
@@ -77,8 +77,8 @@
           "alt": "Educational Reforms"
         },
         "subject": "EDUCATION",
-        "title": "Reforming the Nigerian Education System",
-        "author": "Ngozi Udo"
+        "title": "Reforming the South African Education System",
+        "author": "Elona Ndlovu"
       },
       {
         "image": {
@@ -86,8 +86,8 @@
           "alt": "Entrepreneurship Growth"
         },
         "subject": "ENTREPRENEURSHIP",
-        "title": "Startups Revolutionizing West Africa",
-        "author": "Efe Okojie"
+        "title": "Startups Revolutionizing South Africa",
+        "author": "Sibusiso Ngwenya"
       }
     ]
 
