@@ -1,8 +1,8 @@
 [
     {
         "name": "Dangote Group",
-        "address": "Union Marble House, 1 Alfred Rewane Road, Ikoyi, Lagos, Nigeria",
-        "phone": "+234 9044 748 0815",
+        "address": "54 Wierda Road East, Wierda Valley, Sandton, 2196, South Africa",
+        "phone": "+27 11 322 1000",
         "website": "https://www.dangote.com",
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB5tMHOlwi_KPZz_kVskPLL1wtYOjUYiA5-A&s",
         "membership_level": 3,
@@ -11,18 +11,18 @@
     },
     {
         "name": "GTBank",
-        "address": "635 Akin Adesola Street, Victoria Island, Lagos, Nigeria",
-        "phone": "+234 7002 482 6328",
+        "address": "142 West Street, Sandton, Johannesburg, 2196, South Africa",
+        "phone": "+27 11 322 6000",
         "website": "https://www.gtbank.com",
-        "icon": "https://share.google/images/Ppc5WwSxXHejckWnZ",
+        "icon": "https://africachinapresscentre.org/wp-content/uploads/2021/04/GTBANK.jpg",
         "membership_level": 3,
-        "description": "One of Nigeria's leading financial institutions offering banking and investment services.",
+        "description": "One of South Africa's leading financial institutions offering banking and investment services.",
         "email": "info@gtbank.com"
     },
     {
         "name": "Interswitch",
-        "address": "1648C Oko Awo Street, Victoria Island, Lagos, Nigeria",
-        "phone": "+234 918 906 5000",
+        "address": "Building 3, Inanda Greens, Golf Course Road, Inanda, Sandton, 2196, South Africa",
+        "phone": "+27 11 322 8000",
         "website": "https://www.interswitchgroup.com",
         "icon": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2024/03/interswitch-logo-1536x798-1.jpg",
         "membership_level": 3,
@@ -31,8 +31,8 @@
     },
     {
         "name": "Flutterwave",
-        "address": "8 Providence Street, Lekki Phase 1, Lagos, Nigeria",
-        "phone": "+234 1 888 5588",
+        "address": "11 Alice Lane, Sandton, Johannesburg, 2196, South Africa",
+        "phone": "+27 11 568 1000",
         "website": "https://www.flutterwave.com",
         "icon": "https://v12.flutterwave.com/wp-content/uploads/2022/02/blue.jpeg",
         "membership_level": 3,
@@ -41,18 +41,18 @@
     },
     {
         "name": "Konga",
-        "address": "1 Redemption Crescent, Gbagada Industrial Estate, Lagos, Nigeria",
-        "phone": "+234 809 460 5555",
+        "address": "154 Katherine Street, Sandown, Sandton, 2196, South Africa",
+        "phone": "+27 11 575 1000",
         "website": "https://www.konga.com",
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDmgFbHtq1jTDokcCW9iae-uqDsRggfT1wQ&s",
         "membership_level": 2,
-        "description": "One of Nigeria’s largest online marketplaces offering a wide range of products.",
+        "description": "One of Africa’s largest online marketplaces offering a wide range of products.",
         "email": "support@konga.com"
     },
     {
         "name": "Andela",
-        "address": "Adeniran Ogunsanya Street, Surulere, Lagos, Nigeria",
-        "phone": "+234 906 000 0000",
+        "address": "128 Main Street, Johannesburg, 2001, South Africa",
+        "phone": "+27 21 424 4000",
         "website": "https://www.andela.com",
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqhLcheWq4601kofcq8sszD8JgFVlQ0bi3g&s",
         "membership_level": 2,
@@ -61,18 +61,18 @@
     },
     {
         "name": "Jumia",
-        "address": "109A, Adeola Odeku Street, Victoria Island, Lagos, Nigeria",
-        "phone": "+234 01 888 1100",
+        "address": "1 Thibault Square, Long Street, Cape Town, 8001, South Africa",
+        "phone": "+27 11 403 2000",
         "website": "https://www.jumia.com.ng",
         "icon": "https://www.brandtimes.com.ng/wp-content/uploads/2021/04/jumia-logo.jpg",
         "membership_level": 3,
         "description": "Africa's leading online shopping platform offering a wide array of goods.",
-        "email": "contact@jumia.com.ng"
+        "email": "contact@jumia.com.sa"
     },
     {
-        "name": "MTN Nigeria",
-        "address": "MTN Plaza, Falomo, Ikoyi, Lagos, Nigeria",
-        "phone": "+234 803 123 0000",
+        "name": "MTN South Africa",
+        "address": "MTN Park, 151 Golf Course Road, Woodmead, Sandton, 2191, South Africa",
+        "phone": "+27 11 535 3000",
         "website": "https://www.mtnonline.com",
         "icon": "https://cdn.worldvectorlogo.com/logos/mtn-3.svg",
         "membership_level": 3,
@@ -81,12 +81,12 @@
     },
     {
         "name": "Seplat Energy",
-        "address": "16A Temple Road, Ikoyi, Lagos, Nigeria",
-        "phone": "+234 1 277 0400",
+        "address": "14 Bree Street, Cape Town, 8000, South Africa",
+        "phone": "+27 21 421 9000",
         "website": "https://www.seplatenergy.com",
         "icon": "https://businesstrumpet.com/wp-content/uploads/2018/08/NNPC-AND-SEPLAT-799x445.jpg",
         "membership_level": 3,
-        "description": "A leading Nigerian independent energy company focused on oil and gas exploration and production.",
+        "description": "A leading independent energy company focused on oil and gas exploration and production.",
         "email": "info@seplatenergy.com"
     }
 ]
