@@ -33,7 +33,7 @@ function renderCars(cars) {
                 <p><i class="fa-solid fa-user-group"></i>${car.seats} Persons</p>
             </div>
             <div class="car-details-bottom">
-                <h3>₦${car.price}</h3>
+                <h3>R${car.price}</h3>
                 <button>Buy Now</button>
             </div>
         `;
@@ -51,7 +51,7 @@ function openModal(car) {
     document.getElementById("modalFuel").innerText = car.fuel;
     document.getElementById("modalTransmission").innerText = car.transmission;
     document.getElementById("modalSeats").innerText = car.seats;
-    document.getElementById("modalPrice").innerText = `₦${car.price}`;
+    document.getElementById("modalPrice").innerText = `R${car.price}`;
 
     const modal = document.getElementById("carModal");
     modal.style.display = "flex";
