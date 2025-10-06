@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
 const myAPI = "AIzaSyBPBT5i7lGwT2aE6QgcCQnzlC7GUBZDgqs"; // Google Map API
 
 function initMap() {
-    const location = { lat: 6.579009606154385, lng: 3.3519936816750078 };
+    const location = { lat: -33.918861, lng: 18.423300 };
     const map = new google.maps.Map(document.getElementById("map"), {
         zoom: 15,
         center: location,
